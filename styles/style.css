@@ -1,13 +1,16 @@
 .form-group input{
     padding: 3px;
     background: #c9bfbf;
-    width: 100%;
+    width: 90%;
 }
 .form-group textarea{
     background: #e0dede;
-    height: 200px;
-    width: 50%;
+    height: 300px;
+    width: 90%;
 }
 .row{
-    width: 50%;
+    width: 100%;
+}
+.button button{ 
+    width: 90%;
 }
