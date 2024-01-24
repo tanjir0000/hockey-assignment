@@ -1,0 +1,13 @@
+.form-group input{
+    padding: 3px;
+    background: #c9bfbf;
+    width: 100%;
+}
+.form-group textarea{
+    background: #e0dede;
+    height: 200px;
+    width: 50%;
+}
+.row{
+    width: 50%;
+}
